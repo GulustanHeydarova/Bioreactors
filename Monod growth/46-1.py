@@ -1,7 +1,4 @@
-# File 46-1.py
-# Example 46. Monod growth
-# Copyright (C) 2016, Szczepan Bednarz
-# Released under the GNU General Public License
+
 
 import matplotlib.pyplot as plt
 import numpy as np
