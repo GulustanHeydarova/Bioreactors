@@ -1,7 +1,3 @@
-# File 49-3.py
-# Example 49. Enzymatic reaction kinetics
-# Copyright (C) 2016, Szczepan Bednarz
-# Released under the GNU General Public License
 
 import matplotlib.pyplot as plt
 import numpy as np
