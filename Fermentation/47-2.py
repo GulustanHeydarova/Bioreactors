@@ -1,7 +1,3 @@
-# File 47-2.py
-# Example 47. Fermentation - Monod model
-# Copyright (C) 2016, Szczepan Bednarz
-# Released under the GNU General Public License
 
 import matplotlib.pyplot as plt
 import numpy as np
